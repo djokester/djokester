@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djokester&langs_count=10&theme=dark&layout=compact&include_all_commits=True" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=djokester&show_icons=true&theme=dark&include_all_commits=True" alt="AnhellO :: Profile Stats"/></p>
+
+
 <!--
 **djokester/djokester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://profile-counter.glitch.me/{djokester}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 Here are some ideas to get you started:
 
