@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samriddhisinha)
-[![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@samriddhisinha)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samriddhidjokestersinha@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-samriddhisinha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samriddhisinha)
+[![Medium](https://img.shields.io/badge/-@samriddhisinha-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@samriddhisinha)
+[![Gmail](https://img.shields.io/badge/-samriddhidjokestersinha-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:samriddhidjokestersinha@gmail.com)
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djokester&langs_count=10&theme=dark&layout=compact&include_all_commits=True" alt="AnhellO :: Top Langs" /></p>
